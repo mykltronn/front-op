@@ -7,4 +7,4 @@ What are the planning related needs an orchestra has
 2. Keep track of a list of musicians available
 3. Keep track of different musician classes eg. Contract (A or B), Full-time, Part-time, Substitute musician
 4. Keep track of which musicians are playing what show, exposing the need for extra hires
-5. f
+5.
